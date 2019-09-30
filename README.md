@@ -1,5 +1,5 @@
 ### Why Open Source?
-Open source software (OSS) is a software development model that underpins many Haufe-Lexware products and most of the technology products in our everyday lives. At Haufe-Lexware, we choose to develop and use OSS for the following reasons:
+Open source software (OSS) is a software development model that underpins many Adello products and most of the technology products in our everyday lives. At Adello, we choose to develop and use OSS for the following reasons:
 
 * **Culture**: We are fundamentally invested in sharing.
 * **Trust**: We believe in the tight bond of trust OSS engenders between the company, our developers, and the broader community of users.
@@ -14,10 +14,10 @@ We believe in putting powerful tools in the hands of developers. In many cases, 
 
 * **Generic tools**: A tool, library, or other utility that solves a generic problem
 * **Non-core**: Software not part of our core value proposition as a business
-* **Discretionary**: Code that we collectively decide provides greater value to our community of developers than the incremental value it may provide to Haufe-Lexware if kept proprietary
+* **Discretionary**: Code that we collectively decide provides greater value to our community of developers than the incremental value it may provide to Adello if kept proprietary
 * **Derived work**: As it is often faster to develop using open tools, we correspondingly open derived works based on those tools in adherence with the license terms and conventions.
 
 ### What is our Policy
 See [Open Source Policy](open-source.md)
 
-*Source: This policy was inspired by and derived from [3DR Open Source Policy](https://3dr.com/about/open-source/)*
+*Source: This policy is derived from [Haufe Open Source](https://github.com/Haufe-Lexware/open-source) which in turn was inspired by the [3DR Open Source Policy](https://3dr.com/about/open-source/)*
